@@ -1,0 +1,11 @@
+# snapshots
+1. English
+<img src="src/assets/snapshots/english.png">
+2. Hindi
+<img src="src/assets/snapshots/hindi.png">
+3. Telgu
+<img src="src/assets/snapshots/telgu.png">
+4. Arbic
+<img src="src/assets/snapshots/arbic.png">
+5. Spanish
+<img src="src/assets/snapshots/spanish.png">
