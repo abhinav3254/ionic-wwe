@@ -23,7 +23,9 @@ Welcome to the WWE Superstars Guide, an Ionic project dedicated to providing inf
 - [Multi-Language Support](#multi-language-support)
 - [Contributing](#contributing)
 - [License](#license)   
-- [snapshots](#snapshots)
+- [snapshots](#snapshots)   
+- [Contribution Rules](#contribution-rules)
+
 
 ## About
 
@@ -60,6 +62,57 @@ $sudo npm install
 ```
 ionic serve
 ```
+
+# Contribution Rules
+
+We appreciate your interest in contributing to our project. Before you start contributing, please take a moment to review and follow these guidelines:
+
+## Code of Conduct
+
+Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Be respectful, inclusive, and considerate in all interactions.
+
+## Issues and Bugs
+
+- Before creating a new issue, check if it already exists.
+- Clearly describe the issue or bug, including steps to reproduce it.
+- If possible, provide screenshots or code snippets that help illustrate the problem.
+
+## Feature Requests
+
+- Before making a feature request, ensure it hasn't been suggested before.
+- Clearly describe the feature and its benefits.
+- Provide any relevant details that might help implement the feature.
+
+## Pull Requests
+
+- Fork the repository and create a new branch for your contribution.
+- Ensure your code follows the existing coding style and conventions.
+- Provide clear and concise commit messages.
+- Test your changes thoroughly before submitting a pull request.
+- Update documentation if your changes affect it.
+
+## Code Style
+
+Follow the established coding style of the project. Consistent code style makes it easier to review and maintain the codebase.
+
+## Testing
+
+Ensure that your contributions don't break existing functionality. Write tests for new features or changes when applicable.
+
+## Language and Localization
+
+If you're contributing to language translations, make sure your translations are accurate and contextually appropriate.
+
+## Continuous Integration
+
+Changes should not break the continuous integration (CI) build. Ensure your code passes all tests and checks.
+
+## License
+
+By contributing, you agree that your contributions will be licensed under the project's [LICENSE](LICENSE).
+
+Thank you for your contributions!
+
 
 ## snapshots
 1. English
