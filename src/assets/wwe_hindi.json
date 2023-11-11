@@ -1,0 +1,189 @@
+[
+    {
+        "name": "ब्रॉक लेसनर",
+        "total_matches": 78,
+        "signature_moves": [
+            "एफ5",
+            "किमूरा लॉक"
+        ],
+        "image": "https://media.gettyimages.com/id/545545686/photo/las-vegas-nv-mixed-martial-artist-brock-lesnar-poses-on-the-scale-during-his-weigh-in-for-ufc.jpg?s=612x612&w=0&k=20&c=gpAPZu3W_0ivKH-yZKcgUwwek16ZCnwXePTUDPM7QyE=",
+        "description": "ब्रॉक लेसनर, 78 मैचों के साथ, एफ5 और घातक किमूरा लॉक के साथ, अग्रणी है, जो कक्षा में अनौपचारिकता को दिखाता है।"
+    },
+    {
+        "name": "रैंडी ऑर्टन",
+        "total_matches": 112,
+        "signature_moves": [
+            "आरकेओ"
+        ],
+        "image": "https://media.gettyimages.com/id/481877797/photo/new-york-ny-randy-orton-attends-the-wrestlemania-30-press-conference-at-the-hard-rock-cafe-new.jpg?s=612x612&w=0&k=20&c=vmHZhOHq2DutHSd0ytNA5FLiw8cL-sN61Aqz1e0NbHM=",
+        "description": "रैंडी ऑर्टन, 112 मैचों के साथ, आरकेओ का मास्टर है, जो हर मुकाबले में सुजाग और अप्रत्याशितता दिखाता है।"
+    },
+    {
+        "name": "द अंडरटेकर",
+        "total_matches": 157,
+        "signature_moves": [
+            "चोकस्लैम",
+            "टॉम्बस्टोन पाइलड्राइवर"
+        ],
+        "image": "https://media.gettyimages.com/id/76439750/photo/the-undertaker.jpg?s=612x612&w=0&k=20&c=8EoCiHk-4gedBoO1nL8TXKavvwoaKXYheNL7LVLowcI=",
+        "description": "द अंडरटेकर, 157 मैचों के साथ, अपने पैदाइल चोकस्लैम और टॉम्बस्टोन पाइलड्राइवर के साथ भय फैलाता है, जिससे वह डब्ल्यूडब्ल्यूई के इतिहास पर अमृत की धारा छोड़ता है।"
+    },
+    {
+        "name": "ट्रिपल एच",
+        "total_matches": 134,
+        "signature_moves": [
+            "पेडिग्री"
+        ],
+        "image": "https://media.gettyimages.com/id/1180507562/photo/las-vegas-nevada-wwe-executive-vice-president-of-talent-live-events-and-creative-paul-triple.jpg?s=612x612&w=0&k=20&c=1kD0hcTpwjCCB-yVmxQqnod7h95b9r0EC6iltBerCG8=",
+        "description": "ट्रिपल एच, 134 मैचों के साथ, पेडिग्री के साथ प्रभुत्व का दावा करता है, जिससे वह अपने स्ट्रैटेजिक बुद्धिमत्ता और कच्चे शक्ति को रिंग में प्रदर्शित करता है।"
+    },
+    {
+        "name": "सेथ रोलिंस",
+        "total_matches": 95,
+        "signature_moves": [
+            "कर्ब स्टॉम्प"
+        ],
+        "image": "https://media.gettyimages.com/id/485063262/photo/new-york-ny-seth-rollins-celebrates-his-victory-over-john-cena-at-the-wwe-summerslam-2015-at.jpg?s=612x612&w=0&k=20&c=oD1sJKI-Ne6zUy68fhONDBE0NRzp0Ho_rVBsnARwaNs=",
+        "description": "सेथ रोलिंस, 95 मैचों के साथ, कर्ब स्टॉम्प के साथ आश्चर्यजनकता और फ्लेयर के साथ ब्रांडिश करता है, जो प्रति बाउट में दर्शकों को उनकी सीटों की किनारे पर बनाए रखता है।"
+    },
+    {
+        "name": "डीन एम्ब्रोज",
+        "total_matches": 87,
+        "signature_moves": [
+            "डर्टी डीड्स"
+        ],
+        "image": "https://media.gettyimages.com/id/509691062/photo/cologne-germany-dean-ambrose-during-wwe-road-to-wrestlemania-at-the-lanxess-arena-on-february.jpg?s=612x612&w=0&k=20&c=9_uaEeT5rxCcJlu4EyJ0s_BjjRftzYRRsMbZG40fmOM=",
+        "description": "डीन एम्ब्रोज, 87 मैचों के साथ, डर्टी डीड्स के साथ प्रतिद्वंद्वियों को हिला देता है, जो एक वन्डल और अप्रत्याशित शैली दिखाता है जो दर्शकों को गुमान करने पर मजबूर करती है।"
+    },
+    {
+        "name": "रायबैक",
+        "total_matches": 65,
+        "signature_moves": [
+            "शैल शॉक्ड"
+        ],
+        "image": "https://media.gettyimages.com/id/524262234/photo/professional-wrestler-ryback-attends-the-wwe-monday-night-raw-at-the-frank-erwin-center-on.jpg?s=612x612&w=0&k=20&c=ibu72iHSwVe2we-A6dqJhmk2w7QMVZHEFdOGReMgN_A=",
+        "description": "रायबैक, 65 मैचों के साथ, शैल शॉक्ड के साथ प्रतिद्वंद्वियों को अधिभूत करता है, जो रिंग में शक्ति और प्रभुत्व का एक मिश्रण दिखाता है जो कुछ ही लोग मिला सकता है।"
+    },
+    {
+        "name": "हल्क होगन",
+        "total_matches": 103,
+        "signature_moves": [
+            "एटॉमिक लेग ड्रॉप"
+        ],
+        "image": "https://media.gettyimages.com/id/1179076923/photo/los-angeles-california-hulk-hogan-attends-wwe-20th-anniversary-celebration-marking-premiere.jpg?s=612x612&w=0&k=20&c=OfmUZ5rnQzgn13da3hnvZTfP-vUwvVyJPBvsUT546jI=",
+        "description": "हल्क होगन, 103 मैचों के साथ, आइकॉनिक एटॉमिक लेग ड्रॉप के साथ प्रभुत्व करता है, जो करिश्मा और शक्ति को परिभाषित करता है जो एक युग को परिभाषित करता है।"
+    },
+    {
+        "name": "जॉन सीना",
+        "total_matches": 120,
+        "signature_moves": [
+            "एटीट्यूड एडजस्टमेंट"
+        ],
+        "image": "https://media.gettyimages.com/id/485063238/photo/new-york-ny-john-cena-enters-the-ring-at-the-wwe-summerslam-2015-at-barclays-center-of.jpg?s=612x612&w=0&k=20&c=dNXajJ9zgmK4G_G8zV2CQ1ZXis5AOw7ez0WVckn86q8=",
+        "description": "जॉन सीना, 120 मैचों के साथ, एटीट्यूड एडजस्टमेंट के साथ आदर्श और अद्वितीय आत्मा को रिंग में प्रदर्शित करता है।"
+    },
+    {
+        "name": "कर्ट एंगल",
+        "total_matches": 98,
+        "signature_moves": [
+            "एंगल स्लैम",
+            "एंकल लॉक"
+        ],
+        "image": "https://media.gettyimages.com/id/111214389/photo/kurt-angle-during-spike-tvs-2006-video-game-awards-arrivals-at-the-galen-center-in-los-angeles.jpg?s=612x612&w=0&k=20&c=ltgKfE0qB0WoSctEWs25DrGIbHdeG8bolCt9uonfHkg=",
+        "description": "कर्ट एंगल, 98 मैचों के साथ, एंगल स्लैम और एंकल लॉक के साथ प्रदर्शन करता है, जो तकनीकी प्रौद्योगिकी और अधिरोम उत्साह को प्रदर्शित करता है जो उसके करियर को परिभाषित करता है।"
+    },
+    {
+        "name": "बिग शो",
+        "total_matches": 143,
+        "signature_moves": [
+            "चोकस्लैम",
+            "केओ पंच"
+        ],
+        "image": "https://media.gettyimages.com/id/482580703/photo/new-orleans-la-paul-randall-wight-jr-aka-big-show-attends-wwes-2014-superstars-for-kids-at-the.jpg?s=612x612&w=0&k=20&c=_eXBidy5DYmm-MbLnMKfMBaGmc4HtlSlJG1ZKLAzPXc=",
+        "description": "बिग शो, 143 मैचों के साथ, चोकस्लैम और केओ पंच के साथ प्रमुख हैं, जो उनके आकार और कुशलता का मिश्रण है जिससे कुछ ही लोग मिलते हैं।"
+    },
+    {
+        "name": "स्टोन कोल्ड स्टीव ऑस्टिन",
+        "total_matches": 111,
+        "signature_moves": [
+            "स्टोन कोल्ड स्टनर"
+        ],
+        "image": "https://media.gettyimages.com/id/1168710222/photo/san-jose-california-actor-and-wwe-personality-stone-cold-steve-austin-speaks-at-silicon.jpg?s=612x612&w=0&k=20&c=hkwlocAVVxDmupUzRJ9_hFVhcw6NOqIryVvsD19z-SE=",
+        "description": "स्टोन कोल्ड स्टीव ऑस्टिन, 111 मैचों के साथ, प्रमुख हैं, जो चिन्हात्मक स्टोन कोल्ड स्टनर के साथ प्रतिद्वंद्वियों को हकीकत बना रहे हैं, उनकी उपद्रुत दृष्टिकोण के साथ एक युग को परिभाषित करते हैं।"
+    },
+    {
+        "name": "द रॉक",
+        "total_matches": 145,
+        "signature_moves": [
+            "रॉक बॉटम",
+            "पीपल्स एल्बो"
+        ],
+        "image": "https://media.gettyimages.com/id/142808941/photo/miami-gardens-fl-dwayne-the-rock-johnson-looks-on-during-his-match-against-john-cena-during.jpg?s=612x612&w=0&k=20&c=TAkmGvn4fHsG5ca8M8HufoT8BQZgth8S7Ug2bwpDWU0=",
+        "description": "द रॉक, 145 मैचों के साथ, रॉक बॉटम और पीपल्स एल्बो के साथ चेतावनी देते हैं, जो उनको एक प्रशंसा के लिए करने वाले कैरिज्मा और क्रीडात्मकता के साथ चिन्हात्मक बनाते हैं।"
+    },
+    {
+        "name": "रोमन रेंस",
+        "total_matches": 112,
+        "signature_moves": [
+            "स्पीयर"
+        ],
+        "image": "https://media.gettyimages.com/id/487296658/photo/miami-flroman-reigns-looks-on-during-the-wwe-smackdown-on-september-1-2015-at-the-american.jpg?s=612x612&w=0&k=20&c=hdvXD08TnibP0wOprCYFMjEZRooAhHkXYFvZrvjK6Rk=",
+        "description": "रोमन रेंस, 112 मैचों के साथ, स्पीयर के साथ प्रमुख हैं, जो उनकी ताकत और तीव्रता को प्रदर्शित करते हैं जो उनको WWE में 'द बिग डॉग' का दर्जा देती है।"
+    },
+    {
+        "name": "एज स्टाइल्स",
+        "total_matches": 103,
+        "signature_moves": [
+            "स्टाइल्स क्लैश",
+            "फेनॉमिनल फॉरआर्म"
+        ],
+        "image": "https://media.gettyimages.com/id/1158969946/photo/tokyo-japan-aj-styles-enters-the-ring-during-the-wwe-live-tokyo-at-ryogoku-kokugikan-on-june.jpg?s=612x612&w=0&k=20&c=eaoyr_3j6zOH9917nbLdFUWUbxsJ_9jY0JKzI7EXZyY=",
+        "description": "एज स्टाइल्स, 103 मैचों के साथ, स्टाइल्स क्लैश और फेनॉमिनल फॉरआर्म के साथ हैं, जो प्रत्येक मैच में कुशलता और तकनीकी प्रौढ़ता का प्रदर्शन करते हैं।"
+    },
+    {
+        "name": "शार्लट फ्लेयर",
+        "total_matches": 87,
+        "signature_moves": [
+            "फिगर-एइट लेगलॉक"
+        ],
+        "image": "https://media.gettyimages.com/id/1140687082/photo/new-york-new-york-wwe-superstar-charlotte-flair-attends-the-wwe-superstars-for-hope-reception.jpg?s=612x612&w=0&k=20&c=6rXMnFmz27yMkt-ybppyztbnMk2E1ADiD3NuoxH-CHw=",
+        "description": "शार्लट फ्लेयर, 87 मैचों के साथ, फिगर-एइट लेगलॉक के साथ प्रमुख हैं, जो महिला डिवीजन में कुशलता और तकनीकी कौशल में एक संयोजन का प्रदर्शन करते हैं।"
+    },
+    {
+        "name": "बेकी लिंच",
+        "total_matches": 95,
+        "signature_moves": [
+            "डिस-आर्म-हर"
+        ],
+        "image": "https://media.gettyimages.com/id/1394476580/photo/new-york-new-york-professional-wrestler-becky-lynch-of-ireland-introduces-katie-taylor-of.jpg?s=612x612&w=0&k=20&c=-eONnM1CYiGGie1V_4TBfh9OdNKwPCqwdasMyR12QcM=",
+        "description": "बेकी लिंच, 95 मैचों के साथ, डिस-आर्म-हर के साथ प्रतिद्वंद्वियों को अधिभूत करती हैं, जो उसे उपनाम 'द मैन' दिलाने के लिए सहनशीलता और उत्साह का प्रदर्शन करती हैं।"
+    },
+    {
+        "name": "डैनियल ब्रायन",
+        "total_matches": 120,
+        "signature_moves": [
+            "येस लॉक",
+            "रनिंग नी"
+        ],
+        "image": "https://media.gettyimages.com/id/462104732/photo/portland-or-wwe-superstar-daniel-bryan-speaks-at-wizard-world-comicon-at-oregon-convention.jpg?s=612x612&w=0&k=20&c=Ua9pGl3lkblsccOyJ7FyGBEOdsca69yOX1EhELTZYa0=",
+        "description": "डैनियल ब्रायन, 120 मैचों के साथ, येस लॉक और रनिंग नी के साथ चर्चा करते हैं, जो तकनीकी प्रौढ़ता और प्रशंसा के दर्शकों से निरंतर 'हां!' की चीख के साथ उन्हें बनाते हैं।"
+    },
+    {
+        "name": "एज",
+        "total_matches": 94,
+        "signature_moves": [
+            "स्पीयर"
+        ],
+        "image": "https://media.gettyimages.com/id/81577871/photo/sydney-australia-world-heavyweight-champion-edge-during-wwe-smackdown-at-acer-arena-on-june-15.jpg?s=612x612&w=0&k=20&c=rZAB8kr3ZPBoFqbkXrSZR8X2Ov5wOzV72rPHSLbgC2M=",
+        "description": "अपने कठिन स्पीयर मूव के लिए जाने जाने वाले 94 मैचों के साथ, एज व्रत खोलते हैं। यह पुनरावृत्ति से भरपूर विश्व भारीय चैम्पियन हर हिस्से में भय उत्पन्न करता है। देखें उसकी आंतर्दृष्टि को रिंग में."
+    },
+    {
+        "name": "ब्रॉन स्ट्रोमैन",
+        "total_matches": 84,
+        "signature_moves": [
+            "रनिंग पावरस्लैम"
+        ],
+        "image": "https://media.gettyimages.com/id/968715766/photo/north-hollywood-ca-braun-strowman-attends-wwes-first-ever-emmy-for-your-consideration-event-at.jpg?s=612x612&w=0&k=20&c=1aHgMSLJOtH919LmG9ayJkTQb9P4YBbEZEu1J3ZHaHI=",
+        "description": "84 मैचों के साथ, ब्रॉन स्ट्रोमैन अपने सिग्नेचर रनिंग पावरस्लैम के साथ एक बल है। प्रतिद्वंद्वियों के ऊपर उभरते हुए, इस दैत्य की पूरी ताकत दिल छू जाने वाली है। स्ट्रोमैन की रिंग के बाहर की उपस्थिति का एक झलक प्राप्त करें"
+    }
+]
