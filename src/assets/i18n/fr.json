@@ -1,0 +1,189 @@
+[
+    {
+        "name": "Brock Lesnar",
+        "total_matches": 78,
+        "signature_moves": [
+            "F5",
+            "Kimura Lock"
+        ],
+        "image": "https://media.gettyimages.com/id/545545686/photo/las-vegas-nv-mixed-martial-artist-brock-lesnar-poses-on-the-scale-during-his-weigh-in-for-ufc.jpg?s=612x612&w=0&k=20&c=gpAPZu3W_0ivKH-yZKcgUwwek16ZCnwXePTUDPM7QyE=",
+        "description": "Brock Lesnar, with 78 matches, dominates with the F5 and the lethal Kimura Lock, showcasing unmatched intensity in the ring."
+    },
+    {
+        "name": "Randy Orton",
+        "total_matches": 112,
+        "signature_moves": [
+            "RKO"
+        ],
+        "image": "https://media.gettyimages.com/id/481877797/photo/new-york-ny-randy-orton-attends-the-wrestlemania-30-press-conference-at-the-hard-rock-cafe-new.jpg?s=612x612&w=0&k=20&c=vmHZhOHq2DutHSd0ytNA5FLiw8cL-sN61Aqz1e0NbHM=",
+        "description": "Randy Orton, with 112 matches, is a master of the RKO, showcasing precision and unpredictability in every bout."
+    },
+    {
+        "name": "The Undertaker",
+        "total_matches": 157,
+        "signature_moves": [
+            "Chokeslam",
+            "Tombstone Piledriver"
+        ],
+        "image": "https://media.gettyimages.com/id/76439750/photo/the-undertaker.jpg?s=612x612&w=0&k=20&c=8EoCiHk-4gedBoO1nL8TXKavvwoaKXYheNL7LVLowcI=",
+        "description": "The Undertaker, a legend with 157 matches, strikes fear with his iconic Chokeslam and Tombstone Piledriver, leaving an indelible mark on WWE history."
+    },
+    {
+        "name": "Triple H",
+        "total_matches": 134,
+        "signature_moves": [
+            "Pedigree"
+        ],
+        "image": "https://media.gettyimages.com/id/1180507562/photo/las-vegas-nevada-wwe-executive-vice-president-of-talent-live-events-and-creative-paul-triple.jpg?s=612x612&w=0&k=20&c=1kD0hcTpwjCCB-yVmxQqnod7h95b9r0EC6iltBerCG8=",
+        "description": "Triple H, with 134 matches, asserts dominance with the Pedigree, showcasing his strategic prowess and raw power in the ring."
+    },
+    {
+        "name": "Seth Rollins",
+        "total_matches": 95,
+        "signature_moves": [
+            "Curb Stomp"
+        ],
+        "image": "https://media.gettyimages.com/id/485063262/photo/new-york-ny-seth-rollins-celebrates-his-victory-over-john-cena-at-the-wwe-summerslam-2015-at.jpg?s=612x612&w=0&k=20&c=oD1sJKI-Ne6zUy68fhONDBE0NRzp0Ho_rVBsnARwaNs=",
+        "description": "Seth Rollins, with 95 matches, dazzles with the Curb Stomp, showcasing agility and flair that keeps fans on the edge of their seats."
+    },
+    {
+        "name": "Dean Ambrose",
+        "total_matches": 87,
+        "signature_moves": [
+            "Dirty Deeds"
+        ],
+        "image": "https://media.gettyimages.com/id/509691062/photo/cologne-germany-dean-ambrose-during-wwe-road-to-wrestlemania-at-the-lanxess-arena-on-february.jpg?s=612x612&w=0&k=20&c=9_uaEeT5rxCcJlu4EyJ0s_BjjRftzYRRsMbZG40fmOM=",
+        "description": "Dean Ambrose, with 87 matches, rocks opponents with the Dirty Deeds, showcasing a wild and unpredictable style that keeps fans guessing."
+    },
+    {
+        "name": "Ryback",
+        "total_matches": 65,
+        "signature_moves": [
+            "Shell Shocked"
+        ],
+        "image": "https://media.gettyimages.com/id/524262234/photo/professional-wrestler-ryback-attends-the-wwe-monday-night-raw-at-the-frank-erwin-center-on.jpg?s=612x612&w=0&k=20&c=ibu72iHSwVe2we-A6dqJhmk2w7QMVZHEFdOGReMgN_A=",
+        "description": "Ryback, with 65 matches, overwhelms opponents with the Shell Shocked, showcasing sheer power and dominance in the ring."
+    },
+    {
+        "name": "Hulk Hogan",
+        "total_matches": 103,
+        "signature_moves": [
+            "Atomic Leg Drop"
+        ],
+        "image": "https://media.gettyimages.com/id/1179076923/photo/los-angeles-california-hulk-hogan-attends-wwe-20th-anniversary-celebration-marking-premiere.jpg?s=612x612&w=0&k=20&c=OfmUZ5rnQzgn13da3hnvZTfP-vUwvVyJPBvsUT546jI=",
+        "description": "Hulk Hogan, with 103 matches, dominates with the iconic Atomic Leg Drop, showcasing charisma and power that defined an era."
+    },
+    {
+        "name": "John Cena",
+        "total_matches": 120,
+        "signature_moves": [
+            "Attitude Adjustment"
+        ],
+        "image": "https://media.gettyimages.com/id/485063238/photo/new-york-ny-john-cena-enters-the-ring-at-the-wwe-summerslam-2015-at-barclays-center-of.jpg?s=612x612&w=0&k=20&c=dNXajJ9zgmK4G_G8zV2CQ1ZXis5AOw7ez0WVckn86q8=",
+        "description": "John Cena, with 120 matches, electrifies with the Attitude Adjustment, showcasing resilience and an indomitable spirit in the ring."
+    },
+    {
+        "name": "Kurt Angle",
+        "total_matches": 98,
+        "signature_moves": [
+            "Angle Slam",
+            "Ankle Lock"
+        ],
+        "image": "https://media.gettyimages.com/id/111214389/photo/kurt-angle-during-spike-tvs-2006-video-game-awards-arrivals-at-the-galen-center-in-los-angeles.jpg?s=612x612&w=0&k=20&c=ltgKfE0qB0WoSctEWs25DrGIbHdeG8bolCt9uonfHkg=",
+        "description": "Kurt Angle, with 98 matches, excels with the Angle Slam and Ankle Lock, showcasing technical prowess and intensity that defined his career."
+    },
+    {
+        "name": "Big Show",
+        "total_matches": 143,
+        "signature_moves": [
+            "Chokeslam",
+            "KO Punch"
+        ],
+        "image": "https://media.gettyimages.com/id/482580703/photo/new-orleans-la-paul-randall-wight-jr-aka-big-show-attends-wwes-2014-superstars-for-kids-at-the.jpg?s=612x612&w=0&k=20&c=_eXBidy5DYmm-MbLnMKfMBaGmc4HtlSlJG1ZKLAzPXc=",
+        "description": "Big Show, with 143 matches, dominates with the Chokeslam and KO Punch, showcasing a mix of size and agility that few can match."
+    },
+    {
+        "name": "Stone Cold Steve Austin",
+        "total_matches": 111,
+        "signature_moves": [
+            "Stone Cold Stunner"
+        ],
+        "image": "https://media.gettyimages.com/id/1168710222/photo/san-jose-california-actor-and-wwe-personality-stone-cold-steve-austin-speaks-at-silicon.jpg?s=612x612&w=0&k=20&c=hkwlocAVVxDmupUzRJ9_hFVhcw6NOqIryVvsD19z-SE=",
+        "description": "Stone Cold Steve Austin, con 111 combates, deja atónitos a sus oponentes con el icónico Stone Cold Stunner, definiendo una era con su actitud rebelde."
+    },
+    {
+        "name": "The Rock",
+        "total_matches": 145,
+        "signature_moves": [
+            "Rock Bottom",
+            "People's Elbow"
+        ],
+        "image": "https://media.gettyimages.com/id/142808941/photo/miami-gardens-fl-dwayne-the-rock-johnson-looks-on-during-his-match-against-john-cena-during.jpg?s=612x612&w=0&k=20&c=TAkmGvn4fHsG5ca8M8HufoT8BQZgth8S7Ug2bwpDWU0=",
+        "description": "The Rock, con 145 combates, electrifica con Rock Bottom y People's Elbow, mostrando carisma y habilidad atlética que lo convirtieron en el favorito de los fanáticos."
+    },
+    {
+        "name": "Roman Reigns",
+        "total_matches": 112,
+        "signature_moves": [
+            "Spear"
+        ],
+        "image": "https://media.gettyimages.com/id/487296658/photo/miami-flroman-reigns-looks-on-during-the-wwe-smackdown-on-september-1-2015-at-the-american.jpg?s=612x612&w=0&k=20&c=hdvXD08TnibP0wOprCYFMjEZRooAhHkXYFvZrvjK6Rk=",
+        "description": "Roman Reigns, con 112 combates, domina con Spear, mostrando poder e intensidad que afianzan su estatus como 'The Big Dog' en la WWE."
+    },
+    {
+        "name": "AJ Styles",
+        "total_matches": 103,
+        "signature_moves": [
+            "Styles Clash",
+            "Phenomenal Forearm"
+        ],
+        "image": "https://media.gettyimages.com/id/1158969946/photo/tokyo-japan-aj-styles-enters-the-ring-during-the-wwe-live-tokyo-at-ryogoku-kokugikan-on-june.jpg?s=612x612&w=0&k=20&c=eaoyr_3j6zOH9917nbLdFUWUbxsJ_9jY0JKzI7EXZyY=",
+        "description": "AJ Styles, con 103 combates, impresiona con Styles Clash y Phenomenal Forearm, mostrando agilidad y destreza técnica en cada combate."
+    },
+    {
+        "name": "Charlotte Flair",
+        "total_matches": 87,
+        "signature_moves": [
+            "Figure-Eight Leglock"
+        ],
+        "image": "https://media.gettyimages.com/id/1140687082/photo/new-york-new-york-wwe-superstar-charlotte-flair-attends-the-wwe-superstars-for-hope-reception.jpg?s=612x612&w=0&k=20&c=6rXMnFmz27yMkt-ybppyztbnMk2E1ADiD3NuoxH-CHw=",
+        "description": "Charlotte Flair, con 87 combates, domina con Figure-Eight Leglock, mostrando una combinación de habilidad atlética y destreza técnica en la división femenina."
+    },
+    {
+        "name": "Becky Lynch",
+        "total_matches": 95,
+        "signature_moves": [
+            "Dis-arm-her"
+        ],
+        "image": "https://media.gettyimages.com/id/1394476580/photo/new-york-new-york-professional-wrestler-becky-lynch-of-ireland-introduces-katie-taylor-of.jpg?s=612x612&w=0&k=20&c=-eONnM1CYiGGie1V_4TBfh9OdNKwPCqwdasMyR12QcM=",
+        "description": "Becky Lynch, con 95 combates, abruma a sus oponentes con Dis-arm-her, mostrando resistencia y tenacidad que le valieron el apodo de 'The Man'."
+    },
+    {
+        "name": "Daniel Bryan",
+        "total_matches": 120,
+        "signature_moves": [
+            "Yes Lock",
+            "Running Knee"
+        ],
+        "image": "https://media.gettyimages.com/id/462104732/photo/portland-or-wwe-superstar-daniel-bryan-speaks-at-wizard-world-comicon-at-oregon-convention.jpg?s=612x612&w=0&k=20&c=Ua9pGl3lkblsccOyJ7FyGBEOdsca69yOX1EhELTZYa0=",
+        "description": "Daniel Bryan, con 120 combates, cautiva con Yes Lock y Running Knee, mostrando destreza técnica y un inquebrantable grito de '¡Sí!' por parte de los fanáticos."
+    },
+    {
+        "name": "Edge",
+        "total_matches": 94,
+        "signature_moves": [
+            "Spear"
+        ],
+        "image": "https://media.gettyimages.com/id/81577871/photo/sydney-australia-world-heavyweight-champion-edge-during-wwe-smackdown-at-acer-arena-on-june-15.jpg?s=612x612&w=0&k=20&c=rZAB8kr3ZPBoFqbkXrSZR8X2Ov5wOzV72rPHSLbgC2M=",
+        "description": "Con un total de 94 combates en su haber, Edge, conocido por su letal movimiento Spear, domina la escena de la lucha libre. Este legendario Campeón Mundial de Peso Pesado siembra el miedo con cada movimiento calculado. Observa la intensidad en sus ojos en el ring."
+    },
+    {
+        "name": "Braun Strowman",
+        "total_matches": 84,
+        "signature_moves": [
+            "Running Powerslam"
+        ],
+        "image": "https://media.gettyimages.com/id/968715766/photo/north-hollywood-ca-braun-strowman-attends-wwes-first-ever-emmy-for-your-consideration-event-at.jpg?s=612x612&w=0&k=20&c=1aHgMSLJOtH919LmG9ayJkTQb9P4YBbEZEu1J3ZHaHI=",
+        "description": "Presumiendo 84 combates, Braun Strowman es una fuerza con su característico Running Powerslam. Sobresaliendo sobre sus oponentes, la pura fuerza de este gigante es impresionante. Echa un vistazo a la presencia de Strowman fuera del ring."
+    }
+]

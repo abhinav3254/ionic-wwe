@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { LangService } from '../lang.service';
+import { SelectChangeEventDetail } from '@ionic/angular';
 
 @Component({
   selector: 'app-header',
@@ -6,14 +8,28 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./header.component.scss'],
 })
 export class HeaderComponent implements OnInit {
+  languages = [
+    { name: 'English', code: 'en' },
+    { name: 'Hindi', code: 'hi' },
+    { name: 'Spanish', code: 'es' },
+    { name: 'Arbic', code: 'ar' },
+    { name: 'Telgu', code: 'tel' }
+  ];
 
-  constructor() { }
+  selectedLanguage: string = 'hi';
+
+  constructor(private langService: LangService) { }
 
   ngOnInit() { }
 
-  // for ionic select
-  handleChange() {
-    console.log('ionChange fired with value: ');
+  handleChange(event: CustomEvent<SelectChangeEventDetail<any>>) {
+    this.selectedLanguage = event.detail.value;
+    console.log('ionChange fired with value: ' + this.selectedLanguage);
+    this.langService.changeLang(this.selectedLanguage);
+  }
+
+  getSelectedLanguage(): string {
+    return this.langService.getSelectedLang();
   }
 
   handleCancel() {
@@ -23,5 +39,4 @@ export class HeaderComponent implements OnInit {
   handleDismiss() {
     console.log('ionDismiss fired');
   }
-
 }

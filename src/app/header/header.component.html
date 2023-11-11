@@ -8,12 +8,15 @@
       <ion-list>
         <ion-item>
           <!-- <img class="lang-icon" src="assets/lang-icon.svg" alt=""> -->
-          <ion-select aria-label="Fruit" placeholder="language" (ionChange)="handleChange()"
+          <ion-select aria-label="language" placeholder="language" (ionChange)="handleChange($event)"
             (ionCancel)="handleCancel()" (ionDismiss)="handleDismiss()">
-            <ion-select-option value="en">English</ion-select-option>
-            <ion-select-option value="hn">Hindi</ion-select-option>
-            <ion-select-option value="sn">Sanskrit</ion-select-option>
+            <ion-select-option *ngFor="let language of languages" [value]="language.code">
+              {{language.name}}
+            </ion-select-option>
           </ion-select>
+
+
+
         </ion-item>
       </ion-list>
     </div>
