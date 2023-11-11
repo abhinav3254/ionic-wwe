@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { JsonService } from './json.service';
+import { TranslateService } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-home',
@@ -8,14 +9,23 @@ import { JsonService } from './json.service';
 })
 export class HomePage implements OnInit {
 
+  switchLanguage(language: string) {
+    this.tranlate.use(language);
+  }
+
   jsonData: Wrestlers[] = [];
 
-  constructor(private jsonService: JsonService) { }
+  constructor(private jsonService: JsonService, private tranlate: TranslateService) {
+    this.tranlate.setDefaultLang('hi')
+  }
 
   ngOnInit(): void {
-    this.jsonService.getJsonData().subscribe((data) => {
+    this.jsonService.getJsonData('en').subscribe((data) => {
       this.jsonData = data as Wrestlers[];
       console.log(this.jsonData);
+      this.tranlate.onLangChange.subscribe(event => {
+        console.log('Language changed to', event.lang);
+      });
     });
   }
 }

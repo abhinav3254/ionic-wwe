@@ -3,10 +3,11 @@
   <div class="main" *ngFor="let player of jsonData">
     <div class="card">
       <img src="{{player.image}}" alt="">
-      <h4>{{player.name}}</h4>
+      <h4>{{player.name |translate}}</h4>
       <p>{{player.description}}</p>
     </div>
   </div>
+
 
 
 </ion-content>

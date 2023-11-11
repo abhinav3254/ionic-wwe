@@ -8,7 +8,7 @@ import { Observable } from 'rxjs';
 export class JsonService {
   constructor(private http: HttpClient) { }
 
-  getJsonData(): Observable<any> {
-    return this.http.get('assets/wwe.json');
+  getJsonData(language: string): Observable<any> {
+    return this.http.get('assets/i18n/' + language + '.json');
   }
 }
