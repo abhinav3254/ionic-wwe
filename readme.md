@@ -2,6 +2,16 @@
 
 Welcome to the WWE Superstars Guide, an Ionic project dedicated to providing information about your favorite wrestling stars. Our main focus is to make the content accessible in multiple languages, allowing users from around the world to read, enjoy, and contribute by correcting and enhancing the content.
 
+
+## Authors
+
+- [@abhinav3254](https://www.github.com/abhinav3254)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 ## Table of Contents
 
 - [About](#about)
@@ -39,10 +49,16 @@ Ensure you have the following tools installed:
 
 ### Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/wwe-superstars-guide.git
+1. Install Node.js
+2. Install angular
+3. Install ionic
+4. Clone the repository and run this command
+```
+$sudo npm install
+```
+5. now run this command to serve ionic
+```
+ionic serve
 ```
 
 ## snapshots
