@@ -1,0 +1,38 @@
+.main {
+    margin: 1rem;
+}
+
+.card {
+    width: 30%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+    height: auto;
+    transition: all 1s;
+    padding: 1rem;
+}
+
+.card:hover {
+    cursor: pointer;
+    box-shadow: 5px 5px 5px rgb(241, 251, 251);
+}
+
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+@media screen and (max-width: 767px) {
+    .card {
+        width: 80%;
+        margin: auto;
+        overflow: hidden;
+        text-align: center;
+        height: auto;
+        transition: all 1s;
+        padding: 1rem;
+    }
+}
+
+// npm install @ngx-translate/core@13.0.0

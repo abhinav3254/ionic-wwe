@@ -1,0 +1,22 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+
+    <div class="main">
+      <ion-title>
+        <img class="Logo" src="https://www.wwe.com/a/i/wwe_logo.svg" alt="">
+      </ion-title>
+      <ion-list>
+        <ion-item>
+          <!-- <img class="lang-icon" src="assets/lang-icon.svg" alt=""> -->
+          <ion-select aria-label="Fruit" placeholder="language" (ionChange)="handleChange()"
+            (ionCancel)="handleCancel()" (ionDismiss)="handleDismiss()">
+            <ion-select-option value="en">English</ion-select-option>
+            <ion-select-option value="hn">Hindi</ion-select-option>
+            <ion-select-option value="sn">Sanskrit</ion-select-option>
+          </ion-select>
+        </ion-item>
+      </ion-list>
+    </div>
+
+  </ion-toolbar>
+</ion-header>
